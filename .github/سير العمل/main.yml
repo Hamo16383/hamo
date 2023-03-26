@@ -1,0 +1,7 @@
+صدى "# hamo" >> README.md 
+git init 
+add README.md 
+git الالتزام -m "الالتزام الأول" 
+git Branch -M main 
+git remote add origin https://github.com/Hamo16383/hamo.git
+ git push - ش الرئيسي الأصل
